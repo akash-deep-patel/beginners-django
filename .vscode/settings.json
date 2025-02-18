@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7b18f1f8-236a-42d3-95f9-d2a43b7d9f6c/resourceGroups/rg-starter-app-aka/providers/Microsoft.Web/sites/starter-app-aka",
+    "appService.deploySubpath": "."
+}
